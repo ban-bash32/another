@@ -1,0 +1,24 @@
+table {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bolder;
+	padding: 5px 2px;
+	
+}
+
+td {
+	vertical-align: middle;
+	padding: 5px 2px;
+	border: 1px solid black;
+	text-align: center;
+}
+
+td:first-child {
+	font-size: 14px;
+}
+
+td:nth-child(2){
+  padding: 5px 2px; 
+	font-size: 18px;
+  width: 75%;
+}
+

@@ -1,0 +1,23 @@
+.certificates {
+  display: flex;
+  margin-top: 3%;
+  margin-left: 11%;
+}
+
+.certificate {
+  padding-right: 30%;
+  text-align: center;
+}
+
+.certificate img:hover {
+  transform: scale(1.2);
+  transition: 0.25s;
+}
+
+.certificate img:not(:hover) {
+  transition: 0.2s;
+}
+
+.img {
+  padding-top: 7px;
+}

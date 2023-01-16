@@ -1,0 +1,15 @@
+.avatar {
+  border-radius: 28px;
+  margin-bottom: -2px;  
+}
+
+.avatar:hover {
+  box-shadow: 4px 4px 14px 0px rgba(0,0,0,0.2);
+}
+ 
+.last_p {
+  text-align: right;
+  margin-right: 24px;
+  font-size: 21px;
+  margin-top: -12px;
+}
